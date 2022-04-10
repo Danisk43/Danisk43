@@ -31,5 +31,5 @@ To make the best use of my skills & abilities which enables me to grow in the fi
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danisk43&" alt="danisk43" /></p>
 
 <br/>
-[!Daniyal's github activity graph](https://activity-graph.herokuapp.com/graph?username=Danisk43&theme=react-dark)](https://github.com/Danisk43/github-readme-activity-graph)
 
+[![Daniyal's github activity graph](https://activity-graph.herokuapp.com/graph?username=Danisk43&theme=react-dark)](https://github.com/Danisk43/github-readme-activity-graph)
