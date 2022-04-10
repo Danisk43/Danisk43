@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Daniyal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+## 🙋‍♂️ About Me
+
+I am very enthusiastic about developing projects, I always find the most efficient ways to do my task. My passion for developing things and learning new stuff keeps me motivated towards my work and my life and keeps me moving forward. Proficiency in JavaScript language.
+- Good understanding of CSS3.
+-. Eagerness to learn.
+ - Positive attitude.
+To make the best use of my skills & abilities which enables me to grow in the field of coding & management as a developer while being resourceful, innovative & flexible. My goal is to be an asset to the organization. :)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danisk43&label=Profile%20views&color=0e75b6&style=flat" alt="danisk43" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danisk43" alt="danisk43" /></a> </p>
@@ -21,3 +29,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danisk43&show_icons=true&locale=en" alt="danisk43" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danisk43&" alt="danisk43" /></p>
+
+<br/>
+[!Daniyal's github activity graph](https://activity-graph.herokuapp.com/graph?username=Danisk43&theme=react-dark)](https://github.com/Danisk43/github-readme-activity-graph)
+
